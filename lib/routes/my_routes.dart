@@ -9,7 +9,7 @@ class MyRoute {
   Route? myRoutes(RouteSettings settings) {
     var args = settings.arguments;
     switch (settings.name) {
-      case "home":
+      case "/home":
         return easynavigate(MainView());
     }
   }
