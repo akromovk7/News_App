@@ -7,4 +7,6 @@ class ConsIcons {
   static SvgPicture notify = SvgPicture.asset("assets/icons/notify.svg");
   static SvgPicture search = SvgPicture.asset("assets/icons/search.svg");
   static SvgPicture doubleLike = SvgPicture.asset("assets/icons/doubleLike.svg");
+  static SvgPicture arrowRight = SvgPicture.asset("assets/icons/arrowRight.svg");
+  static SvgPicture reset = SvgPicture.asset("assets/icons/reset.svg");
 }

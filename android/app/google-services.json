@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982333313690",
+    "project_id": "news-f0a8c",
+    "storage_bucket": "news-f0a8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982333313690:android:e75b1141cedf11e4d40523",
+        "android_client_info": {
+          "package_name": "com.kamoliddin.news_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982333313690-6cvna6d1bghmsmqqb2gpd4vrkd83huij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwclOd4-T8j8whYT8x8Bt9xLsBgIx_WYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982333313690-6cvna6d1bghmsmqqb2gpd4vrkd83huij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
